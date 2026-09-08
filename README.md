@@ -1,4 +1,4 @@
-# tue-transport-envflows.github.io
+# Transport in Environmental Flows @TU/e
 
 Landing page for the **Transport in Environmental Flows** research group (Matias Duran Matute), part of the
 Fluids and Flows group in the Department of Applied Physics and Science Education at Eindhoven University of
